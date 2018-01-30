@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Events on Red Hat | Public Sector</title>
+    <link>http://redhatgov.io/events/</link>
+    <description>Recent content in Events on Red Hat | Public Sector</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 22 Mar 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://redhatgov.io/events/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fort Belvoir Expo</title>
+      <link>http://redhatgov.io/events/20180322-fort-belvoir-expo-5284500cb4d506795b4012168d651b57/</link>
+      <pubDate>Thu, 22 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20180322-fort-belvoir-expo-5284500cb4d506795b4012168d651b57/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Culture, Containers, and Accelerating DevOps</title>
+      <link>http://redhatgov.io/events/20180308-culture-containers-and-accelerating-devops-398703c6dfecf7f06316ca283cfeb65c/</link>
+      <pubDate>Thu, 08 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20180308-culture-containers-and-accelerating-devops-398703c6dfecf7f06316ca283cfeb65c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2018 Cybersecurity Technology Summit</title>
+      <link>http://redhatgov.io/events/20180227-2018-cybersecurity-technology-summit-bbfcade0a0d4078b0537213f72b19c0a/</link>
+      <pubDate>Tue, 27 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20180227-2018-cybersecurity-technology-summit-bbfcade0a0d4078b0537213f72b19c0a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>California CIO Academy</title>
+      <link>http://redhatgov.io/events/20180227-california-cio-academy-03ed235bc24399270a364d167f8eb382/</link>
+      <pubDate>Tue, 27 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20180227-california-cio-academy-03ed235bc24399270a364d167f8eb382/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software Defined Storage and Automation Workshop</title>
+      <link>http://redhatgov.io/events/20180222-software-defined-storage-and-automation-workshop-1351c47a1adee5ab433182409e7b2c23/</link>
+      <pubDate>Thu, 22 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20180222-software-defined-storage-and-automation-workshop-1351c47a1adee5ab433182409e7b2c23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Containers and Cloud Native Roadshow Toronto</title>
+      <link>http://redhatgov.io/events/20180220-containers-and-cloud-native-roadshow-toronto-bc6ef14981cbfce0974f9e1302cc4af6/</link>
+      <pubDate>Tue, 20 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20180220-containers-and-cloud-native-roadshow-toronto-bc6ef14981cbfce0974f9e1302cc4af6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ansible Automation Technical Workshops</title>
+      <link>http://redhatgov.io/events/20180213-ansible-automation-technical-workshops-89f5272a37f6f8ddc4ed5b7d197032b7/</link>
+      <pubDate>Tue, 13 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20180213-ansible-automation-technical-workshops-89f5272a37f6f8ddc4ed5b7d197032b7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Washington D.C. Fishackathon (USA)</title>
+      <link>http://redhatgov.io/events/20180210-washington-d-c-fishackathon-usa-4152f86471823e37ded7878846741501/</link>
+      <pubDate>Sat, 10 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20180210-washington-d-c-fishackathon-usa-4152f86471823e37ded7878846741501/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ansible Automation Technical Workshops</title>
+      <link>http://redhatgov.io/events/20180208-ansible-automation-technical-workshops-96bd686394cf05e2c3b459e41b147d05/</link>
+      <pubDate>Thu, 08 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20180208-ansible-automation-technical-workshops-96bd686394cf05e2c3b459e41b147d05/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ansible Automation Technical Workshops</title>
+      <link>http://redhatgov.io/events/20180207-ansible-automation-technical-workshops-5e0cd45047b6211a825428e3f185dea9/</link>
+      <pubDate>Wed, 07 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20180207-ansible-automation-technical-workshops-5e0cd45047b6211a825428e3f185dea9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AFCEA West</title>
+      <link>http://redhatgov.io/events/20180206-afcea-west-6861560019e878557fbd8c07b6576cd0/</link>
+      <pubDate>Tue, 06 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20180206-afcea-west-6861560019e878557fbd8c07b6576cd0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ansible Automation Technical Workshops</title>
+      <link>http://redhatgov.io/events/20180201-ansible-automation-technical-workshops-6cdc2bcd55fd172da4ee955cd9c9dd59/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20180201-ansible-automation-technical-workshops-6cdc2bcd55fd172da4ee955cd9c9dd59/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Containers and Cloud Native Roadshow Boston</title>
+      <link>http://redhatgov.io/events/20180201-containers-and-cloud-native-roadshow-boston-5d43ab9c8384d48a80e6d87dfe4d97d3/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20180201-containers-and-cloud-native-roadshow-boston-5d43ab9c8384d48a80e6d87dfe4d97d3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ansible Automation Technical Workshops</title>
+      <link>http://redhatgov.io/events/20180131-ansible-automation-technical-workshops-505e404573460cf7ac37cad9f487c393/</link>
+      <pubDate>Wed, 31 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20180131-ansible-automation-technical-workshops-505e404573460cf7ac37cad9f487c393/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
